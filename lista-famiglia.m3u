@@ -184,11 +184,11 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 #EXTINF:-1 tvg-name="Rei Tv" tvg-logo="https://i.imgur.com/YNRWFOo.png" tvg-country="IT" group-title="Italy",Rei Tv
 https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai 1 Ⓖ" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-id="Rai1.it" tvg-country="IT" group-title="Italy",Rai 1 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai 2 Ⓖ" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-id="Rai2.it" tvg-country="IT" group-title="Italy",Rai 2 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 #EXTINF:-1 tvg-name="Rai 3 Ⓖ" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-id="Rai3.it" tvg-country="IT" group-title="Italy",Rai 3 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai 4 Ⓖ" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-id="Rai4.it" tvg-country="IT" group-title="Italy",Rai 4 Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Iris Ⓖ" tvg-logo="https://i.imgur.com/Ixz1BY3.png" tvg-id="Iris.it" tvg-country="IT" group-title="Italy",Iris Ⓖ
@@ -200,8 +200,12 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forc
 #EXTINF:-1 tvg-name="Rai Premium Ⓖ" tvg-logo="https://i.imgur.com/RKI4nFy.png" tvg-id="RaiPremium.it" tvg-country="IT" group-title="Italy",Rai Premium Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Rai Storia Ⓖ" tvg-logo="https://i.imgur.com/K8y5q8x.png" tvg-id="RaiStoria.it" tvg-country="IT" group-title="Italy",Rai Storia Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5
+https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
 #EXTINF:-1 tvg-name="Rai Scuola Ⓖ" tvg-logo="https://i.imgur.com/tmtJW6s.png" tvg-id="RaiScuola.it" tvg-country="IT" group-title="Italy",Rai Scuola Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-id="RaiRadio2Visual.it" tvg-country="IT" group-title="Italy",Rai Radio 2 Visual Radio
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-name="Rei Italia"
+https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
+#EXTINF:-1 tvg-name="Rai World Premium"
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
