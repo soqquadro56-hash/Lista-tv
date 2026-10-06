@@ -205,7 +205,3 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-id="RaiRadio2Visual.it" tvg-country="IT" group-title="Italy",Rai Radio 2 Visual Radio
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-name="Rei Italia"
-https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
-#EXTINF:-1 tvg-name="Rai World Premium"
-https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
