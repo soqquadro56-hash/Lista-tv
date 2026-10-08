@@ -159,18 +159,3 @@ https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
 https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u8
 #EXTINF:-1 tvg-name="QVC" tvg-logo="https://i.imgur.com/Ea7iUX2.png" tvg-id="QVCItaly.it" group-title="Altro",QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-
-## PLUTO TV ITALIA (GRATUITO - AGGIORNATO OGNI 6 ORE)
-#EXTINF:-1 tvg-name="Pluto TV Channels" tvg-logo="https://i.imgur.com/2BdEI1X.png" tvg-id="Pluto.it" group-title="Pluto TV",📺 Pluto TV (Molteplici Canali)
-https://raw.githubusercontent.com/OwnerPlugins/pluto-tv-m3u/main/pluto-live-IT.m3u
-
-## RAKUTEN TV ITALIA (GRATUITO CON PUBBLICITÀ)
-#EXTINF:-1 tvg-name="Rakuten TV" tvg-logo="https://i.imgur.com/5V8xK0n.png" tvg-id="Rakuten.it" group-title="Rakuten TV",📺 Rakuten TV (Molteplici Canali)
-https://iptv-org.github.io/iptv/streams/it_rakuten.m3u
-
-## CANALI GRATUITI AGGIUNTIVI AFFIDABILI
-#EXTINF:-1 tvg-name="IPTV Playlist Italia" tvg-logo="https://i.imgur.com/8N7V3V9.png" tvg-id="IPTVItalia.it" group-title="Streaming Libero",🎬 IPTV Italia Completa
-https://iptv-org.github.io/iptv/countries/it.m3u
-#EXTINF:-1 tvg-name="Streamlink IT" tvg-logo="https://i.imgur.com/kR2L9v8.png" tvg-id="StreamlinkIT.it" group-title="Streaming Libero",🌐 Canali Streaming Liberi (Backup)
-https://raw.githubusercontent.com/matthuisman/iptvnl/master/italy.m3u
-
